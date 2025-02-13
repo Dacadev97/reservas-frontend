@@ -91,6 +91,5 @@ export const getEvents = async () => {
 
 - **Vue Router** para gestionar la navegación.
 - **Pinia** para el manejo del estado.
-- **Tailwind CSS** para los estilos.
 - **Axios** para la comunicación con la API.
 - **TypeScript** para tipado y mejor mantenimiento del código.
